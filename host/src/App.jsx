@@ -15,7 +15,7 @@ function App() {
       <ButtonCopy />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          Host app counter count is {count}
         </button>
 
       </div>
